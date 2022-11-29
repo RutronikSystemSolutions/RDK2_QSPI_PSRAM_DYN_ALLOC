@@ -46,7 +46,7 @@ TARGET=RDK2
 #
 # If APPNAME is edited, ensure to update or regenerate launch
 # configurations for your IDE.
-APPNAME=mtb-example-empty-app
+APPNAME=rdk2-qspi-psram-dyn-alloc
 
 # Name of toolchain to use. Options include:
 #
