@@ -117,7 +117,7 @@ int main(void)
 {
     cy_rslt_t result;
     uint8_t *addr = NULL;
-    uint32_t rnd_num;
+    uint32_t rnd_num = 0;
 #ifdef TEST_ALLOC_MEM
     uint32_t i;
 #endif
